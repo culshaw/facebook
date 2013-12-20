@@ -1,6 +1,6 @@
 {
-    "name": "boparaiamrit/facebook",
-    "description": "Facebook PHP SDK Package for Laravel 4",
+    "name": "culshaw/facebook",
+    "description": "Facebook PHP SDK Package for Laravel 4.1",
     "keywords": ["Facebook", "laravel", "laravel4"],
     "authors": [
         {
