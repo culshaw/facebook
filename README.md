@@ -1,4 +1,7 @@
-# Facebook
+# I take no credit for this at all, this is all boparaiamrit's work, this is just to preserve my sanity while they update they're package.
+
+## Facebook
+
 
 Facebook PHP SDK for Laravel
 
